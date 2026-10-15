@@ -1,4 +1,4 @@
 ## Hello I'm Ana Ravagnani 👋
  
-- 🌱 I’m currently learning Java, JavaScript, Python
+- 🌱 I’m currently learning Java, JavaScript, Python, Cobol
 
